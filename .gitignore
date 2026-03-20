@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+myenv/
+venv/
+env/
+.venv/
+*.log
+*.pot
+*.pyc
+*.xlsx
+db.sqlite3
+media/
+staticfiles/
+.vscode/
+.idea/
+.DS_Store
+.env
+.env.local
+.pylintrc
+nps full_final.exe
+Архив/
+output/
